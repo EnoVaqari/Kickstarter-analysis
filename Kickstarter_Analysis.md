@@ -3,7 +3,7 @@
  
 The purpose of the Kickstarter analysis is to analyze the dataset and draw various conclusions that will help Louise determine how to successfully accomplish her fundraising goal for her play "Fever".
 
-###Analysis and Challenges
+### Analysis and Challenges
 
 Through the data analysis of theater campaigns launching time and their outcomes for each month, we understand that May and June have the highest number of successful campaigns. However, it is noticable that these months also have the highest number of failed campaigns, yet, the percentage of failed versus successful campaigns is smallest compared to the rest of the months. In addition, based on the dataset analysis, December is the least successful month with the highest percentage of failed versus successful campaigns. Overall, the best months for Louise's play to take place will be May and June.
 
